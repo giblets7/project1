@@ -79,6 +79,7 @@ class Leather: Shoe {
 }
 
 
+var egg = "hooooo"
 
 
 
